@@ -6,4 +6,4 @@
 
 使用素材来源：[Blinky Flappers! Mod](https://github.com/yamamotoNEW/Blinky-Flappers-MOD)
 
-版本：v1.0
+版本：v1.0.1
