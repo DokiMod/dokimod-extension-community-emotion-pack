@@ -41,6 +41,10 @@ image yuri 3by5 = im.Composite((960, 960), (0, 0), "yuri/2bl.png", (0, 0), "yuri
 image yuri 3by6 = im.Composite((960, 960), (0, 0), "yuri/2bl.png", (0, 0), "yuri/2br.png", (0, 0), "yuri/y6.png")
 image yuri 3by7 = im.Composite((960, 960), (0, 0), "yuri/2bl.png", (0, 0), "yuri/2br.png", (0, 0), "yuri/y7.png")
 
+image yuri 1y8 = im.Composite((960, 960), (0, 0), "yuri/1bl.png", (0, 0), "yuri/1br.png", (0, 0), "yuri/y8.png")
+image yuri 2y8 = im.Composite((960, 960), (0, 0), "yuri/1bl.png", (0, 0), "yuri/2br.png", (0, 0), "yuri/y8.png")
+image yuri 3y8 = im.Composite((960, 960), (0, 0), "yuri/2bl.png", (0, 0), "yuri/2br.png", (0, 0), "yuri/y8.png")
+
 image yuri 1by8 = im.Composite((960, 960), (0, 0), "yuri/1bl.png", (0, 0), "yuri/1br.png", (0, 0), "yuri/y8.png")
 image yuri 2by8 = im.Composite((960, 960), (0, 0), "yuri/1bl.png", (0, 0), "yuri/2br.png", (0, 0), "yuri/y8.png")
 image yuri 3by8 = im.Composite((960, 960), (0, 0), "yuri/2bl.png", (0, 0), "yuri/2br.png", (0, 0), "yuri/y8.png")
