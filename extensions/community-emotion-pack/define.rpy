@@ -65,6 +65,14 @@ image yuri 1by10 = im.Composite((960, 960), (0, 0), "yuri/1bl.png", (0, 0), "yur
 image yuri 2by10 = im.Composite((960, 960), (0, 0), "yuri/1bl.png", (0, 0), "yuri/2br.png", (0, 0), "yuri/y10.png")
 image yuri 3by10 = im.Composite((960, 960), (0, 0), "yuri/2bl.png", (0, 0), "yuri/2br.png", (0, 0), "yuri/y10.png")
 
+image yuri 1hisui = im.Composite((960, 960), (0, 0), "yuri/1l.png", (0, 0), "yuri/1r.png", (0, 0), "yuri/hisui.png")
+image yuri 2hisui = im.Composite((960, 960), (0, 0), "yuri/1l.png", (0, 0), "yuri/2r.png", (0, 0), "yuri/hisui.png")
+image yuri 3hisui = im.Composite((960, 960), (0, 0), "yuri/2l.png", (0, 0), "yuri/2r.png", (0, 0), "yuri/hisui.png")
+
+image yuri 1bhisui = im.Composite((960, 960), (0, 0), "yuri/1bl.png", (0, 0), "yuri/1br.png", (0, 0), "yuri/hisui.png")
+image yuri 2bhisui = im.Composite((960, 960), (0, 0), "yuri/1bl.png", (0, 0), "yuri/2br.png", (0, 0), "yuri/hisui.png")
+image yuri 3bhisui = im.Composite((960, 960), (0, 0), "yuri/2bl.png", (0, 0), "yuri/2br.png", (0, 0), "yuri/hisui.png")
+
 # Sayori
 image sayori 5e = im.Composite((960, 960), (0, 0), "sayori/3e.png")
 image sayori 5f = im.Composite((960, 960), (0, 0), "sayori/3f.png")
